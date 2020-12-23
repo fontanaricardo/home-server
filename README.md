@@ -16,7 +16,7 @@ FTP_PASS=xxx
 Start docker-compose with env file:
 
 ```
-docker-compose -d --env-file ./.prod.env up 
+docker-compose --env-file ./.prod.env up -d
 ```
 
 # References
