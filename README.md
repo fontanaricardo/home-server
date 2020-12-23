@@ -28,3 +28,5 @@ docker-compose -d --env-file ./.prod.env up
 [How To Install Docker On Raspberry Pi](https://phoenixnap.com/kb/docker-on-raspberry-pi)
 
 [External storage configuration](https://www.raspberrypi.org/documentation/configuration/external-storage.md)
+
+[Install docker-compose on Raspiberry Pi](https://dev.to/rohansawant/installing-docker-and-docker-compose-on-the-raspberry-pi-in-5-simple-steps-3mgl)
